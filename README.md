@@ -55,7 +55,7 @@ A peer-led academic support web app for Wits residences:
 ## 📫 Let’s Connect  
 - 🐙 GitHub: [@Sbongakonk3](https://github.com/Sbongakonk3)  
 - 💼 LinkedIn: *(https://www.linkedin.com/in/sibongakonke-ntsele/)*  
-- 📧 Email: *(add your email here)*  
+- 📧 Email: *(ntselesbongakonkeowethu@gmail.com)*  
 
 ---
 
