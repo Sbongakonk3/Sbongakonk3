@@ -6,56 +6,50 @@
 ---
 
 ## 🌟 About Me  
-- 🎓 First-year Computer Science student @ Wits University  
-- 🏠 Academic Officer of Barnato Hall & founder of **Barnato Hub**  
-- 💻 Freelance Software Developer (remote/self-employed)  
-- 🧑‍🏫 Mentor & tutor for Grade 12 learners in Ladysmith  
-- ⚡ Fun fact: I debug faster with coffee ☕ and lo-fi beats 🎶  
+-  First-year Computer Science student @ Wits University  
+-  Academic Officer of Barnato Hall & founder of **Barnato Hub**  
+-  Mentor & tutor for Grade 12 learners 
+  
 
 ---
 
-## 🛠️ Tech Toolbox  
-- **Frontend Magic:** Tailwind CSS ✨, Responsive UI Design  
-- **Backend Wizardry:** Role-based Authentication 🔐, Python Automation 🐍  
-- **Deployment Spells:** GitHub ⚡, Vercel 🚀, SEO Optimization 🔍  
-- **Data Science Potions:** Jupyter Notebooks 📓, Practical Statistics 📊  
+## Tech Toolbox  
+**Development:** Java
+- **Data Science Potions:** Jupyter Notebooks , Practical Statistics  
 
 ---
 
-## 🚀 Current Quest  
-### 🏗️ Student Nexus  
+##  Current Quest  
+###  Student Nexus  
 A peer-led academic support web app for Wits residences:  
-- 📅 Events, clubs, volunteering, maintenance tracking  
-- 🖥️ Tech stack: TypeScript + Tailwind CSS  
-- 🌍 Goal: Accessibility, SEO visibility, student empowerment  
+- Events, clubs, volunteering, maintenance tracking  
+-  Goal: Accessibility, student empowerment  
 
 ---
 
-## 🎯 Goals  
-- 🌐 Launch **Student Nexus** with strong SEO + legal safety  
-- 📝 Draft disclaimers to protect student-led initiatives  
-- 🤝 Keep mentoring learners while balancing uni + leadership roles  
+##  Goals  
+-  Pass send year
+-  Keep mentoring learners while balancing uni + leadership roles  
 
 ---
 
-## 🎨 Interests  
-- Building academic support communities 🏫  
-- Ethical leadership & responsible innovation 🌱  
-- Benchmarking AI tools 🤖  
-- Designing digital solutions for empowerment 💡  
+##  Interests  
+- Building academic support communities  
+- Ethical leadership & responsible innovation 
+- Designing digital solutions for empowerment 
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sbongakonk3&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sbongakonk3&layout=compact&theme=radical)
 
 ---
 
-## 📫 Let’s Connect  
-- 🐙 GitHub: [@Sbongakonk3](https://github.com/Sbongakonk3)  
-- 💼 LinkedIn: *(https://www.linkedin.com/in/sibongakonke-ntsele/)*  
-- 📧 Email: *(ntselesbongakonkeowethu@gmail.com)*  
+##  Let’s Connect  
+-  GitHub: [@Sbongakonk3](https://github.com/Sbongakonk3)  
+-  LinkedIn: *(https://www.linkedin.com/in/sibongakonke-ntsele/)*  
+-  Email: *(ntselesbongakonkeowethu@gmail.com)*  
 
 ---
 
