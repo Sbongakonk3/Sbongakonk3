@@ -6,7 +6,7 @@
 ---
 
 ## 🌟 About Me  
--  First-year Computer Science student @ Wits University  
+-  Second year Computer Science student @ Wits University  
 -  Academic Officer of Barnato Hall & founder of **Barnato Hub**  
 -  Mentor & tutor for Grade 12 learners 
   
@@ -33,7 +33,10 @@ A peer-led academic support web app for Wits residences:
 
 ---
 
-##  Interests  
+##  Interests 
+- CyberSecurity
+- Robotic 
+- data Science and machine Learning
 - Building academic support communities  
 - Ethical leadership & responsible innovation 
 - Designing digital solutions for empowerment 
