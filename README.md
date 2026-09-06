@@ -59,12 +59,6 @@ I am seeking opportunities and collaborations in software development, machine l
   <img src="https://github-profile-trophy.vercel.app/?username=Sbongakonk3&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sbongakonk3/Sbongakonk3/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
-> Note: The contribution snake animation above requires a one-time GitHub Actions workflow set up in this repository. Instructions are provided at the end of this file.
-
 ---
 
 ## Contact
@@ -84,46 +78,3 @@ I am seeking opportunities and collaborations in software development, machine l
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=100&section=footer" width="100%"/>
 </div>
-
----
-
-<details>
-<summary><b>How to enable the contribution snake animation</b></summary>
-
-1. In your profile repository (`Sbongakonk3/Sbongakonk3`), create a file at `.github/workflows/snake.yml` with the following content:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: Platane/snk@v3
-        id: snake
-        with:
-          github_user_name: Sbongakonk3
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-2. Push this file to your `main` branch.
-3. GitHub Actions will run automatically and generate the snake SVG on an `output` branch, which this README references.
-4. Enable Actions if prompted, and allow the workflow read/write permissions under Settings → Actions → General.
-
-</details>
