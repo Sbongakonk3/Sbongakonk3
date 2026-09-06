@@ -48,7 +48,7 @@ I am seeking opportunities and collaborations in software development, machine l
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sbongakonk3&theme=redical&hide_border=true&bg_color=0D0221&color=B084CC&line=800080&point=E0D7F5" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sbongakonk3&theme=radical&hide_border=true&bg_color=0D0221&color=B084CC&line=800080&point=E0D7F5" />
 </p>
 
 ---
